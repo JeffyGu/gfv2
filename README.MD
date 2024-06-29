@@ -40,31 +40,6 @@ gf run main.go
 1. Go或者GoFrame安装的版本不一致
 2. 配置文件问题，密码不正确等等
 
-# 出现问题可以联系我
-
-## 我的知识星球
-
-https://wx.zsxq.com/dweb2/index/group/15528828844882
-
-## 微信
-
-wangzhongyang1993
-
-## 我的博客
-
-https://juejin.cn/user/2189882892232029/posts
-
-## 我的公众号
-
-程序员升级打怪之旅
-
-# 交叉编译
-
-## for Linux
-
-```
-CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build
-```
 
 ## for windows
 
